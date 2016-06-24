@@ -1,0 +1,164 @@
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\ApplicationInsights.config
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\csc.exe
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\vbc.exe
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\vidly.dll.config
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\vidly.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\vidly.pdb
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Antlr3.Runtime.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\EntityFramework.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AI.Web.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.ApplicationInsights.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Newtonsoft.Json.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Owin.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.Helpers.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.Mvc.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.Optimization.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.Razor.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.WebPages.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\WebGrease.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AI.Web.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.ApplicationInsights.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.Helpers.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.Mvc.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.Optimization.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.Razor.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.WebPages.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Antlr3.Runtime.pdb
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Newtonsoft.Json.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\EntityFramework.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\obj\Debug\vidly.dll
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\obj\Debug\vidly.pdb
+C:\Users\driley\Documents\dylan\hfc#\projects\vidly\vidly\obj\Debug\vidly.csprojResolveAssemblyReference.cache
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\ApplicationInsights.config
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\csc.exe
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\vbc.exe
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\vidly.dll.config
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\vidly.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\vidly.pdb
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Antlr3.Runtime.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\EntityFramework.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AI.Web.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.ApplicationInsights.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Newtonsoft.Json.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Owin.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.Helpers.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.Mvc.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.Optimization.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.Razor.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.WebPages.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\WebGrease.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AI.Web.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.ApplicationInsights.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.Helpers.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.Mvc.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.Optimization.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.Razor.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.WebPages.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Antlr3.Runtime.pdb
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Newtonsoft.Json.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\EntityFramework.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.csprojResolveAssemblyReference.cache
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.dll
+C:\Users\driley\Documents\dylan\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.pdb
