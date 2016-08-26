@@ -1,0 +1,42 @@
+﻿@model IEnumerable<vidly.Models.Customers>
+@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h2>Customers:</h2>
+<div class="table-responsive">
+    <table class="table table-bordered table-hover">
+       
+
+        <tbody>
+            @if (Model.Count() < 1)
+            {
+            @:There are no customers to dispaly.
+            }
+            else
+            {
+                foreach (var customer in Model)
+                {
+
+                <tr>
+                    <td>
+                        @Html.ActionLink(customer.Name, "Details", new { id = customer.Id })
+
+                    </td>
+
+                </tr>
+
+
+
+                }
+
+            }
+            
+            
+        </tbody>
+
+    </table>
+
+
+</div>

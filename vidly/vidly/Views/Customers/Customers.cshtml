@@ -1,0 +1,15 @@
+﻿@model List<vidly.Models.Customers>
+@{
+    ViewBag.Title = "Customers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Customers</h1>
+<tr>Customer name:</tr>
+
+    @foreach (var i in Model)
+    {
+        <td>
+            @i.Name Details:
+        </td>
+    }
+    Hello
