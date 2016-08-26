@@ -203,10 +203,44 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201608261408153_InitialModel.cs" />
+    <Compile Include="Migrations\201608261408153_InitialModel.Designer.cs">
+      <DependentUpon>201608261408153_InitialModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608261427417_AddIsSucscribedToCustomer.cs" />
+    <Compile Include="Migrations\201608261427417_AddIsSucscribedToCustomer.Designer.cs">
+      <DependentUpon>201608261427417_AddIsSucscribedToCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608261438389_AddMembershipType.cs" />
+    <Compile Include="Migrations\201608261438389_AddMembershipType.Designer.cs">
+      <DependentUpon>201608261438389_AddMembershipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608261441279_PopulateMembershipTypes.cs" />
+    <Compile Include="Migrations\201608261441279_PopulateMembershipTypes.Designer.cs">
+      <DependentUpon>201608261441279_PopulateMembershipTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608261512383_PopulateMembershipTypes2.cs" />
+    <Compile Include="Migrations\201608261512383_PopulateMembershipTypes2.Designer.cs">
+      <DependentUpon>201608261512383_PopulateMembershipTypes2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608261514557_PopulateMembershipTypes3.cs" />
+    <Compile Include="Migrations\201608261514557_PopulateMembershipTypes3.Designer.cs">
+      <DependentUpon>201608261514557_PopulateMembershipTypes3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608261517281_PopulateMembershipTypes1.cs" />
+    <Compile Include="Migrations\201608261517281_PopulateMembershipTypes1.Designer.cs">
+      <DependentUpon>201608261517281_PopulateMembershipTypes1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608261526214_ApplyAnnotationsToCustomerName.cs" />
+    <Compile Include="Migrations\201608261526214_ApplyAnnotationsToCustomerName.Designer.cs">
+      <DependentUpon>201608261526214_ApplyAnnotationsToCustomerName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customers.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\MembershipType.cs" />
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -289,6 +323,32 @@
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201608261408153_InitialModel.resx">
+      <DependentUpon>201608261408153_InitialModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608261427417_AddIsSucscribedToCustomer.resx">
+      <DependentUpon>201608261427417_AddIsSucscribedToCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608261438389_AddMembershipType.resx">
+      <DependentUpon>201608261438389_AddMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608261441279_PopulateMembershipTypes.resx">
+      <DependentUpon>201608261441279_PopulateMembershipTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608261512383_PopulateMembershipTypes2.resx">
+      <DependentUpon>201608261512383_PopulateMembershipTypes2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608261514557_PopulateMembershipTypes3.resx">
+      <DependentUpon>201608261514557_PopulateMembershipTypes3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608261517281_PopulateMembershipTypes1.resx">
+      <DependentUpon>201608261517281_PopulateMembershipTypes1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608261526214_ApplyAnnotationsToCustomerName.resx">
+      <DependentUpon>201608261526214_ApplyAnnotationsToCustomerName.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

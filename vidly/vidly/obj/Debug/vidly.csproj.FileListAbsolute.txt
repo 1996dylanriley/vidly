@@ -244,3 +244,12 @@ C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\bin\Micr
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.csprojResolveAssemblyReference.cache
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.dll
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.pdb
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.InitialModel.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.csproj.GenerateResource.Cache
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.AddIsSucscribedToCustomer.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.AddMembershipType.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMembershipTypes2.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMembershipTypes3.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMembershipTypes1.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.ApplyAnnotationsToCustomerName.resources
