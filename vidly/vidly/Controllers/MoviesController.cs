@@ -42,5 +42,14 @@ namespace vidly.Controllers
             var movie = _context.Movies.SingleOrDefault(m => m.Id == id);
             return View(movie);
         }
+        public ActionResult NewMovie()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult NewMovie(Movie movie)
+        {
+            return View();
+        }
     }
 }

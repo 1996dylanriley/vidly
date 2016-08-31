@@ -4,6 +4,11 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 <h1>Movies</h1>
+<div>
+    @Html.ActionLink("New Movie", "NewMovie", 0, new { @class="btn btn-primary" })
+    
+</div>
+
 <div class="table-responsive">
     <table class="table table-bordered table-hover">
         <thead>
