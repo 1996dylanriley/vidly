@@ -44,13 +44,21 @@ namespace vidly.Controllers
         }
         public ActionResult NewMovie()
         {
-            var viewModel = new NewMovieViewModel();
+            var genres = _context.Gernes.Select(m => m.Name.ToString()).ToList();
+            var viewModel = new NewMovieViewModel() { Movie = new Movie(), Genre = genres};
             return View(viewModel);
         }
         [HttpPost]
-        public ActionResult NewMovie(Movie movie)
+        public ActionResult Save(Movie movie)
         {
-            return View();
+            
+            movie.ReleaseDate = DateTime.Now;
+            _context.Movies.Add(movie);
+            
+            _context.SaveChanges();
+
+            return RedirectToAction("Index", "Movies");
+            
         }
     }
 }

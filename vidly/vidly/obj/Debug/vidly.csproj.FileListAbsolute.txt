@@ -265,3 +265,6 @@ C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debu
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.MoviesGenresNamed2.resources
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.addedMembershipTypesDb.resources
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.addedMembershipTypesDb1.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.addedGenreDb.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.removedMovieGenreInt.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.removedMovieGenreInt1.resources

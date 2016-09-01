@@ -283,6 +283,18 @@
     <Compile Include="Migrations\201608310855157_addedMembershipTypesDb1.Designer.cs">
       <DependentUpon>201608310855157_addedMembershipTypesDb1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201609011631523_addedGenreDb.cs" />
+    <Compile Include="Migrations\201609011631523_addedGenreDb.Designer.cs">
+      <DependentUpon>201609011631523_addedGenreDb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609011827334_removedMovieGenreInt.cs" />
+    <Compile Include="Migrations\201609011827334_removedMovieGenreInt.Designer.cs">
+      <DependentUpon>201609011827334_removedMovieGenreInt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609011828589_removedMovieGenreInt1.cs" />
+    <Compile Include="Migrations\201609011828589_removedMovieGenreInt1.Designer.cs">
+      <DependentUpon>201609011828589_removedMovieGenreInt1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customers.cs" />
@@ -439,6 +451,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201608310855157_addedMembershipTypesDb1.resx">
       <DependentUpon>201608310855157_addedMembershipTypesDb1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609011631523_addedGenreDb.resx">
+      <DependentUpon>201609011631523_addedGenreDb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609011827334_removedMovieGenreInt.resx">
+      <DependentUpon>201609011827334_removedMovieGenreInt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609011828589_removedMovieGenreInt1.resx">
+      <DependentUpon>201609011828589_removedMovieGenreInt1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
