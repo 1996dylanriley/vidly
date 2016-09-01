@@ -1,4 +1,4 @@
-﻿@model vidly.Models.Movie
+﻿@model vidly.ViewModels.NewMovieViewModel;
 
 @{
     ViewBag.Title = "NewMovie";
@@ -9,23 +9,23 @@
 @using (Html.BeginForm("Save", "Movies"))
 {
     <div class="form-group">
-        @Html.LabelFor(m => m.Name);
-        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" });
+        @Html.LabelFor(m => m.Movie.Name);
+        @Html.TextBoxFor(m => m.Movie.Name, new { @class = "form-control" });
     </div>
 
     <div class="form-group">
-        @Html.LabelFor(m => m.ReleaseDate);
-        @Html.TextBoxFor(m => m.ReleaseDate, new { @class = "form-control" });
+        @Html.LabelFor(m => m.Movie.ReleaseDate);
+        @Html.TextBoxFor(m => m.Movie.ReleaseDate, new { @class = "form-control" });
     </div>
 
     <div class="form-group">
-        @Html.LabelFor(m => m.NumberInStock);
-        @Html.TextBoxFor(m => m.NumberInStock, new { @class = "form-control" });
+        @Html.LabelFor(m => m.Movie.NumberInStock);
+        @Html.TextBoxFor(m => m.Movie.NumberInStock, new { @class = "form-control" });
     </div>
 
     <div>
-        @Html.LabelFor(m => m.GenreName);
-        @Html.DropDownListFor(m => )
+        @Html.LabelFor(m => m.Movie.GenreName);
+        @Html.DropDownListFor(m => m.g//should be gener here but still working on it)
         
     </div>
 

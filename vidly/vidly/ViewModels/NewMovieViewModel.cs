@@ -9,7 +9,7 @@ namespace vidly.ViewModels
     public class NewMovieViewModel
     {
         public Movie Movie { get; set; }
-        public IEnumerable<Movie> MyProperty { get; set; }
+        public IEnumerable<Genre> Genre { get; set; }
 
     }
 }

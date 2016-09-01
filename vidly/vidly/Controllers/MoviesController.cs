@@ -44,7 +44,8 @@ namespace vidly.Controllers
         }
         public ActionResult NewMovie()
         {
-            return View();
+            var viewModel = new NewMovieViewModel();
+            return View(viewModel);
         }
         [HttpPost]
         public ActionResult NewMovie(Movie movie)
