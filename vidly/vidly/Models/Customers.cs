@@ -11,11 +11,14 @@ namespace vidly.Models
         public int Id { get; set; }
         [Required]
         [StringLength(255)]
+        
         public string Name { get; set; }
         public bool IsSubscribedToNewsLetter { set; get; }
         public MembershipType MembershipType { get; set; }
         [Display(Name= "Membership Type")]
         public byte MembershipTypeId { get; set; }
+        [Min18YearsIfMember(ErrorMessage = "Please enter customers age.")]
+        
         public DateTime? DateOfBirth { get; set; }
     }
 }

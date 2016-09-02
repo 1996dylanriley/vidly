@@ -32,26 +32,42 @@ namespace vidly.Controllers
         [HttpPost]
         public ActionResult Save(Customers customer)
         {
-            if(customer.Id == 0)
+            if (ModelState.IsValid)
             {
-                _context.Customers.Add(customer);
+                if (customer.Id == 0)
+                {
+                    _context.Customers.Add(customer);
+                }
+                else
+                {
+                    var customerInDb = _context.Customers.Single(c => c.Id == customer.Id);
+
+                    customerInDb.Name = customer.Name;
+                    customerInDb.DateOfBirth = customer.DateOfBirth;
+                    customerInDb.MembershipTypeId = customer.MembershipTypeId;
+                    customerInDb.IsSubscribedToNewsLetter = customer.IsSubscribedToNewsLetter;
+
+                }
+                _context.SaveChanges();
+                return RedirectToAction("Index", "Customers");
             }
+
             else
             {
-                var customerInDb = _context.Customers.Single(c => c.Id == customer.Id);
+                var viewModel = new NewCustomerViewModel
+                {
+                    MembershipTypes = _context.MembershipTypes.ToList(),
+                    Customer = customer
 
-                customerInDb.Name = customer.Name;
-                customerInDb.DateOfBirth = customer.DateOfBirth;
-                customerInDb.MembershipTypeId = customer.MembershipTypeId;
-                customerInDb.IsSubscribedToNewsLetter = customer.IsSubscribedToNewsLetter;
-
+                };
+                return View("CustomerForm", viewModel);
             }
-            
-            _context.SaveChanges();
-            return RedirectToAction("Index", "Customers");
+
+
+
         }
-        
-            
+
+
         public ActionResult Index()
         {
             var customers = _context.Customers.Include(c => c.MembershipType).ToList();
