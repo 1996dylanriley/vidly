@@ -33,7 +33,11 @@
         @Html.DropDownListFor(m => m.Movie.GenreName, new SelectList(Model.Genre), "Select", new { @class = "form-control" })
         @Html.ValidationMessageFor(m => m.Movie.GenreName)
     </div>
+    @Html.AntiForgeryToken()
     <button typeof="submit" class="btn btn-primary">Save</button>
 
 }
-
+@section scripts
+    {
+    @Scripts.Render("~/bundles/jqueryval")
+   }

@@ -49,6 +49,7 @@ namespace vidly.Controllers
             return View(viewModel);
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Save(Movie movie)
         {
             if (ModelState.IsValid)
