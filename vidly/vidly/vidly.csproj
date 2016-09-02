@@ -295,6 +295,14 @@
     <Compile Include="Migrations\201609011828589_removedMovieGenreInt1.Designer.cs">
       <DependentUpon>201609011828589_removedMovieGenreInt1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201609020942117_TryingToFixErrorWithDateTime2.cs" />
+    <Compile Include="Migrations\201609020942117_TryingToFixErrorWithDateTime2.Designer.cs">
+      <DependentUpon>201609020942117_TryingToFixErrorWithDateTime2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201609021310394_TryingToFixErrorWithDateTime22.cs" />
+    <Compile Include="Migrations\201609021310394_TryingToFixErrorWithDateTime22.Designer.cs">
+      <DependentUpon>201609021310394_TryingToFixErrorWithDateTime22.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customers.cs" />
@@ -379,6 +387,7 @@
     <Content Include="Views\Movies\Index.cshtml" />
     <Content Include="Views\Customers\CustomerForm.cshtml" />
     <Content Include="Views\Movies\NewMovie.cshtml" />
+    <Content Include="Views\Movies\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -460,6 +469,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201609011828589_removedMovieGenreInt1.resx">
       <DependentUpon>201609011828589_removedMovieGenreInt1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609020942117_TryingToFixErrorWithDateTime2.resx">
+      <DependentUpon>201609020942117_TryingToFixErrorWithDateTime2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201609021310394_TryingToFixErrorWithDateTime22.resx">
+      <DependentUpon>201609021310394_TryingToFixErrorWithDateTime22.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -45,20 +45,52 @@ namespace vidly.Controllers
         public ActionResult NewMovie()
         {
             var genres = _context.Gernes.Select(m => m.Name.ToString()).ToList();
-            var viewModel = new NewMovieViewModel() { Movie = new Movie(), Genre = genres};
+            var viewModel = new NewMovieViewModel() {Genre = genres };
             return View(viewModel);
         }
         [HttpPost]
         public ActionResult Save(Movie movie)
         {
-            
-            movie.ReleaseDate = DateTime.Now;
-            _context.Movies.Add(movie);
-            
-            _context.SaveChanges();
+            if (ModelState.IsValid)
+            {
+                if (movie.Id == 0)
+                {
+                    movie.DateAdded = DateTime.Now;
+                    _context.Movies.Add(movie);
+                }
+                else
+                {
+                    var movieInDb = _context.Movies.First(m => m.Id == movie.Id);
+                    movieInDb.Name = movie.Name;
+                    movieInDb.NumberInStock = movie.NumberInStock;
+                    movieInDb.GenreName = movie.GenreName;
+                    movieInDb.ReleaseDate = movie.ReleaseDate;
 
-            return RedirectToAction("Index", "Movies");
+                }
+
+
+                _context.SaveChanges();
+
+                return RedirectToAction("Index", "Movies");
+            }
+            else
+            {
+                var genres = _context.Gernes.Select(m => m.Name.ToString()).ToList();
+                var viewModel = new NewMovieViewModel() { Genre = genres, Movie = movie };
+                return View("NewMovie", viewModel);
+            }
+
+        }
+        public ActionResult Edit(int id)
+        {
             
+            var genres = _context.Gernes.Select(m => m.Name.ToString()).ToList();
+            var movie = _context.Movies.SingleOrDefault (m => m.Id == id);
+            if (movie == null)
+                return HttpNotFound();
+            var viewModel = new NewMovieViewModel() { Genre = genres, Movie = movie };
+
+            return View(viewModel);
         }
     }
 }
