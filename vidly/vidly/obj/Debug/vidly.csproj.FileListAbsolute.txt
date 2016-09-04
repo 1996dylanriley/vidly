@@ -241,7 +241,6 @@ C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\bin\Micr
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.csprojResolveAssemblyReference.cache
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.dll
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.pdb
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.InitialModel.resources
@@ -253,3 +252,15 @@ C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debu
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMembershipTypes3.resources
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMembershipTypes1.resources
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.NameAddedToMembershipType.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.RemoveNameFromMembershipType.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.AddNameValues.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.DOB.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.DOB1.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.DOB2.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.csprojResolveAssemblyReference.cache
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.MoviePropertiesAdded.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.MoviesPopulated.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.MoviesGenresNamed.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.MoviesGenresNamed2.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.MoviesGenresNamed1.resources

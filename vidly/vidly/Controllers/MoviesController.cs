@@ -10,7 +10,17 @@ namespace vidly.Controllers
 {
     public class MoviesController : Controller
     {
+        private ApplicationDbContext _context;
+        public MoviesController()
+        {
+            _context = new ApplicationDbContext();
+        }
         // GET: Movies
+        public ActionResult Index()
+        {
+            var listOfMovies = _context.Movies.ToList();
+            return View(listOfMovies);
+        }
         public ActionResult Random()
         {
             var movie = new Movie() { Name = "Shrek" };
@@ -26,6 +36,11 @@ namespace vidly.Controllers
                 Customers = customers1
             };
             return View(viewModel);
+        }
+        public ActionResult Details(int id)
+        {
+            var movie = _context.Movies.SingleOrDefault(m => m.Id == id);
+            return View(movie);
         }
     }
 }

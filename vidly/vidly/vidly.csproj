@@ -235,6 +235,50 @@
     <Compile Include="Migrations\201608261526214_ApplyAnnotationsToCustomerName.Designer.cs">
       <DependentUpon>201608261526214_ApplyAnnotationsToCustomerName.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201608301459127_NameAddedToMembershipType.cs" />
+    <Compile Include="Migrations\201608301459127_NameAddedToMembershipType.Designer.cs">
+      <DependentUpon>201608301459127_NameAddedToMembershipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608301516538_RemoveNameFromMembershipType.cs" />
+    <Compile Include="Migrations\201608301516538_RemoveNameFromMembershipType.Designer.cs">
+      <DependentUpon>201608301516538_RemoveNameFromMembershipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608301521117_AddNameValues.cs" />
+    <Compile Include="Migrations\201608301521117_AddNameValues.Designer.cs">
+      <DependentUpon>201608301521117_AddNameValues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608301545330_DOB.cs" />
+    <Compile Include="Migrations\201608301545330_DOB.Designer.cs">
+      <DependentUpon>201608301545330_DOB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608301552406_DOB1.cs" />
+    <Compile Include="Migrations\201608301552406_DOB1.Designer.cs">
+      <DependentUpon>201608301552406_DOB1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608301605258_DOB2.cs" />
+    <Compile Include="Migrations\201608301605258_DOB2.Designer.cs">
+      <DependentUpon>201608301605258_DOB2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608301647272_MoviePropertiesAdded.cs" />
+    <Compile Include="Migrations\201608301647272_MoviePropertiesAdded.Designer.cs">
+      <DependentUpon>201608301647272_MoviePropertiesAdded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608301705106_MoviesPopulated.cs" />
+    <Compile Include="Migrations\201608301705106_MoviesPopulated.Designer.cs">
+      <DependentUpon>201608301705106_MoviesPopulated.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608301710053_MoviesGenresNamed.cs" />
+    <Compile Include="Migrations\201608301710053_MoviesGenresNamed.Designer.cs">
+      <DependentUpon>201608301710053_MoviesGenresNamed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608301712289_MoviesGenresNamed2.cs" />
+    <Compile Include="Migrations\201608301712289_MoviesGenresNamed2.Designer.cs">
+      <DependentUpon>201608301712289_MoviesGenresNamed2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608301720011_MoviesGenresNamed1.cs" />
+    <Compile Include="Migrations\201608301720011_MoviesGenresNamed1.Designer.cs">
+      <DependentUpon>201608301720011_MoviesGenresNamed1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customers.cs" />
@@ -312,6 +356,9 @@
     <Content Include="Views\Customers\Customers.cshtml" />
     <Content Include="Views\Customers\Index.cshtml" />
     <Content Include="Views\Customers\Details.cshtml" />
+    <Content Include="Views\Movies\Details.cshtml" />
+    <Content Include="Views\Movies\Index.cshtml" />
+    <Content Include="Views\Customers\New.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -348,6 +395,39 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201608261526214_ApplyAnnotationsToCustomerName.resx">
       <DependentUpon>201608261526214_ApplyAnnotationsToCustomerName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301459127_NameAddedToMembershipType.resx">
+      <DependentUpon>201608301459127_NameAddedToMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301516538_RemoveNameFromMembershipType.resx">
+      <DependentUpon>201608301516538_RemoveNameFromMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301521117_AddNameValues.resx">
+      <DependentUpon>201608301521117_AddNameValues.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301545330_DOB.resx">
+      <DependentUpon>201608301545330_DOB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301552406_DOB1.resx">
+      <DependentUpon>201608301552406_DOB1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301605258_DOB2.resx">
+      <DependentUpon>201608301605258_DOB2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301647272_MoviePropertiesAdded.resx">
+      <DependentUpon>201608301647272_MoviePropertiesAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301705106_MoviesPopulated.resx">
+      <DependentUpon>201608301705106_MoviesPopulated.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301710053_MoviesGenresNamed.resx">
+      <DependentUpon>201608301710053_MoviesGenresNamed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301712289_MoviesGenresNamed2.resx">
+      <DependentUpon>201608301712289_MoviesGenresNamed2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608301720011_MoviesGenresNamed1.resx">
+      <DependentUpon>201608301720011_MoviesGenresNamed1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
