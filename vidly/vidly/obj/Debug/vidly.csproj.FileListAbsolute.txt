@@ -268,3 +268,5 @@ C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debu
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.addedGenreDb.resources
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.removedMovieGenreInt.resources
 C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.removedMovieGenreInt1.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.TryingToFixErrorWithDateTime2.resources
+C:\Users\driley\Documents\dylan\primary\mvc\mvc folder\mosh\vidly\vidly\obj\Debug\vidly.Migrations.TryingToFixErrorWithDateTime22.resources
